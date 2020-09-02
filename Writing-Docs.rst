@@ -5,7 +5,7 @@ A beginner's guide to writing documentation
           Please provide feedback to `@AdharshS16`_.
           You can view the source on `GitHub`_.
 
-.. _@ericholscher: https://twitter.com/AdharshS16
+.. _@AdharshS16: https://twitter.com/AdharshS16
 .. _GitHub: https://github.com/raven-97/Documentation-101/Writing-Docs.md
 
 ..
