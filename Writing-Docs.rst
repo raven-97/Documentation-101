@@ -6,7 +6,7 @@ A beginner's guide to writing documentation
           You can view the source on `GitHub`_.
 
 .. _@AdharshS16: https://twitter.com/AdharshS16
-.. _GitHub: https://github.com/raven-97/Documentation-101/Writing-Docs.rst
+.. _GitHub: https://github.com/raven-97/Documentation-101/blob/master/Writing-Docs.rst
 
 ..
 
